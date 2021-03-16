@@ -1,0 +1,5 @@
+package com.fatec.cinema.controller;
+
+public class HomeController {
+
+}
